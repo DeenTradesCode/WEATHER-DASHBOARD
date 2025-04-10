@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/uuid": "^10.0.0"
+  }
+}

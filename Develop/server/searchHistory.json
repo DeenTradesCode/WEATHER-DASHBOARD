@@ -1,0 +1,62 @@
+[
+  {
+    "name": "New York",
+    "id": "f69fdf98-5b20-4418-abf3-c2027419e69a"
+  },
+  {
+    "name": "Dallas",
+    "id": "555fe6e4-249a-4b2b-afef-27b641d71dd1"
+  },
+  {
+    "name": "atlanta",
+    "id": "3184b4e3-31f1-4af7-be1f-ca2ebcf9c1d0"
+  },
+  {
+    "name": "New jersey",
+    "id": "55555dbe-b1fb-4b6e-82ed-46abcbfae138"
+  },
+  {
+    "name": "San Diego",
+    "id": "001d4e70-72da-4fcf-b67d-ede858202c19"
+  },
+  {
+    "name": "Miami",
+    "id": "a15605c5-bcb7-4b6a-ad0c-bcbc3eeb4e0e"
+  },
+  {
+    "name": "Texas",
+    "id": "d318bbeb-c708-4594-84df-61e46c10459e"
+  },
+  {
+    "name": "Florida",
+    "id": "94b2ab6c-a6a4-484d-8403-369c165f5418"
+  },
+  {
+    "name": "Washington",
+    "id": "69ec74e7-bb09-4c40-ae14-10241e465486"
+  },
+  {
+    "name": "Denver",
+    "id": "1b979fd8-7d65-495a-bb04-241bdb441a38"
+  },
+  {
+    "name": "Houston",
+    "id": "36917918-171c-4e67-9ed8-9c5ab59b1230"
+  },
+  {
+    "name": "Oklahoma",
+    "id": "a175da06-4ce2-4413-b3e3-87e463562bb6"
+  },
+  {
+    "name": "LA",
+    "id": "01fa5742-a0f0-4de4-9f77-31f1a758ac54"
+  },
+  {
+    "name": "Brooklyn",
+    "id": "d380d7db-efde-48f9-9213-8700f3779521"
+  },
+  {
+    "name": "Staten Island",
+    "id": "42eeb550-93c0-441e-8d7c-3f8c3967c77f"
+  }
+]
